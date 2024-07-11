@@ -1,0 +1,47 @@
+<html>
+  <body style = "text-align: center;">
+    <header style="background-color  : HoneyDew" >
+     <title> moon</title>
+     <img src="https://s.yimg.com/ny/api/res/1.2/7f14xfZDhz_.JHVSN6w87Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxNQ--/https://media.zenfs.com/en/comingsoon_net_477/bd69b3048896801bb9275d674078469c"  width="28px" height ="28px">
+      <a href="flowers.html" >flowers</a>
+      <a href="moon.html" >moon</a>            
+      <a href="manhwa.html" >manhwa</a>
+    </header>
+    
+    <main style="background-color  : MistyRose">
+          <h1> manhwa </h1>
+          <img src="https://preview.redd.it/top-10-most-popular-action-fantasy-manhwa-solo-levelling-a-v0-e2uerm4ce7n91.png?auto=webp&s=4983d9d50d68eb7be467ed4835b37fc7f8ff6300" width="400px" height ="400px" >
+          <p> Manhwa (Korean: 만화; Hanja: 漫畵; Korean pronunciation: [manβʷa]) is the general Korean term for comics and print cartoons. Outside Korea, the term usually refers to South Korean comics.[1] Manhwa is directly influenced by Japanese Manga comics. Modern Manhwa has extended its reach to many other countries. These comics have branched outside of Korea by access to Webtoons and have created an impact that has resulted in some movie and television show adaptations،</p>
+        <table style="border: 1px solid black ">
+        <thead style="border: 1px solid black"> How beautiful are the manhwa </thead>
+          <tr> 
+            <td style="border: 1px solid black">
+              <img src="https://api.duniagames.co.id/api/content/upload/file/20412098791650629713.jpeg" width="100px" height="100px">
+            </td>
+            <td style="border: 1px solid black">
+                  keira
+              </td>
+          </tr>
+            <tr>
+            <td  style="border: 1px solid black">
+                <img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/wm/2024/01/regression-manhwa.jpg" width="100px" height ="100px" >
+          
+            </td>
+                <td style="border: 1px solid black">
+                    erez
+                </td>
+          </tr>
+        </table>        
+          
+    
+
+    </main>
+
+     <footer style="background-color  : LightBlue">
+         <h3>infos </h3>
+         <p><i>adress : </i><b> Meiji Jingu , tokyo</b></p>
+         <p><i>phone_number</i> <b>06.89.75.15.24</b></p>
+
+    </footer>
+
+  </body>
