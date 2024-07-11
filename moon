@@ -1,12 +1,12 @@
 <html>
   <body style = "text-align: center;">
     <header style="background-color  : Gainsboro" >
-     <title> moon</title>
+     <title> moon</title>   
+ 
      <img src="https://cdn.pixabay.com/photo/2019/11/07/17/07/universe-4609408_640.jpg"  width="28px" height ="28px">
       <a href="flowers.html" >flowers</a>
-      <a href="moon.html" >moon</a>
-      <a href="anime.html" >anime</a>              
       <a href="manhwa.html" >manhwa</a>
+      <a href="moon.html" >moon</a>     
     </header>
     
     <main style="background-color  : Silver">
